@@ -1,0 +1,15 @@
+/* Poppins font
+ *
+ * - Downloaded from Google Fonts
+ *   https://fonts.google.com/specimen/Poppins/
+ * - Licensed under the SIL Open Font Licencse, which grants the right to redistribute the font
+ *   https://scripts.sil.org/OFL
+ * - Conversion to WOFF2 by Font Squirrel
+ *   https://www.fontsquirrel.com/tools/webfont-generator
+ */
+@font-face {
+	font-family: 'Poppins';
+	src: url('poppins-regular-webfont.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+}
